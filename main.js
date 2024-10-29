@@ -43,21 +43,21 @@ $(document).on('click', '.remove', function() {
 
 // Data arrays to dynamically change content
 const imagesArray = [
-    '/assets/img/img_camera.jpg',
-    '/assets/img/img_headphones2.jpg',
-    '/assets/img/img_pc.jpg',
-    '/assets/img/img_keyboard.jpg',
-    '/assets/img/img_headphones.jpg',
-    '/assets/img/img_watch.jpg',
-    '/assets/img/img_glasses.jpg',
-    '/assets/img/img_bioglow.jpg',
-    '/assets/img/img_watch2.jpg',
-    '/assets/img/img-shoes.jpg',
-    '/assets/img/img_sac.jpg',
-    '/assets/img/img_string.jpg',
-    '/assets/img/img_bycicle.jpg',
-    '/assets/img/img-shoes2.jpg',
-    '/assets/img/img_dress.jpg',
+    '/img/img_camera.jpg',
+    '/img/img_headphones2.jpg',
+    '/img/img_pc.jpg',
+    '/img/img_keyboard.jpg',
+    '/img/img_headphones.jpg',
+    '/img/img_watch.jpg',
+    '/img/img_glasses.jpg',
+    '/img/img_bioglow.jpg',
+    '/img/img_watch2.jpg',
+    '/img/img-shoes.jpg',
+    '/img/img_sac.jpg',
+    '/img/img_string.jpg',
+    '/img/img_bycicle.jpg',
+    '/img/img-shoes2.jpg',
+    '/img/img_dress.jpg',
 ];
 
 const titles = ['Camera', 'Sonny', 'PC', 'Keyboard', 'Oraimo', 'Watch', 'Pird', 'Bioglow', 'Rolex', 'Shoes', 'Sac', 'String', 'Bicycle', 'Air Force', 'Dress'];
